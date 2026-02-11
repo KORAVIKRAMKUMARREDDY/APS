@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0509-fibonacci-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
@@ -95,6 +96,7 @@
 | [0050-powx-n](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |

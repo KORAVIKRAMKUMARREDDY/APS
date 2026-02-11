@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0977-squares-of-a-sorted-array) |
@@ -20,10 +21,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |

@@ -11,6 +11,7 @@
 | [0496-next-greater-element-i](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -99,6 +100,7 @@
 | [0234-palindrome-linked-list](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design

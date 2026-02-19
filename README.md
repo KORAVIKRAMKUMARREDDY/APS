@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -203,12 +205,18 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0257-binary-tree-paths) |
 ## Greedy
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0621-task-scheduler) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->

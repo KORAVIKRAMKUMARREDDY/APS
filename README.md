@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0283-move-zeroes) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0496-next-greater-element-i) |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum

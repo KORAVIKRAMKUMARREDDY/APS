@@ -12,6 +12,7 @@
 | [0239-sliding-window-maximum](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0622-design-circular-queue) |
@@ -164,6 +165,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort

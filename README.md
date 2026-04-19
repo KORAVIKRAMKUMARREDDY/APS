@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0509-fibonacci-number) |
@@ -112,6 +113,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0542-01-matrix) |
@@ -216,6 +218,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |

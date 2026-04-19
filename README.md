@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0078-subsets) |
@@ -361,6 +362,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0257-binary-tree-paths) |

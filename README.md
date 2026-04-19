@@ -21,6 +21,7 @@
 | [0641-design-circular-deque](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0641-design-circular-deque) |
 | [0695-max-area-of-island](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0739-daily-temperatures) |
@@ -43,6 +44,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0997-find-the-town-judge) |
 ## Sliding Window
@@ -70,6 +72,7 @@
 | [0217-contains-duplicate](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0721-accounts-merge) |
 | [0977-squares-of-a-sorted-array](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Prefix Sum
@@ -101,6 +104,7 @@
 | [0257-binary-tree-paths](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0387-first-unique-character-in-a-string) |
+| [0721-accounts-merge](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0721-accounts-merge) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Queue
@@ -250,6 +254,7 @@
 | [0542-01-matrix](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -294,6 +299,7 @@
 | [0257-binary-tree-paths](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -328,6 +334,7 @@
 | [0200-number-of-islands](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |

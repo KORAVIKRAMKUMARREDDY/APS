@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0200-number-of-islands) |
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0202-happy-number) |
@@ -71,6 +73,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0217-contains-duplicate) |
@@ -106,6 +109,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KORAVIKRAMKUMARREDDY/APS/tree/master/0387-first-unique-character-in-a-string) |
